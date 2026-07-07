@@ -158,3 +158,8 @@ body {
   .hero-btns { flex-direction: column; align-items: flex-start; }
   .about-features { grid-template-columns: 1fr 1fr !important; }
 }
+
+a{
+  text-decoration:none;
+  color: white;
+}
