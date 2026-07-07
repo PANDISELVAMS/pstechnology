@@ -60,7 +60,7 @@ export default function Contact() {
               onMouseLeave={e => { e.currentTarget.style.transform = "translateY(0)"; }}
             >
               <span style={{ fontSize: 22 }}>💬</span>
-              Chat on WhatsApp
+              <a href="https://wa.me/919344881590?text=Hi%20PS%20Technology,%20I%20have%20a%20query">Chat on WhatsApp</a>
             </button>
           </div>
 
